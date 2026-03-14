@@ -9,7 +9,9 @@ O projeto foi criado com o objetivo de praticar lógica de programação, manipu
 # 🚀 Demonstração
 
 🔗 Acesse o projeto online
-https://cassymari.github.io/Dev-Sorteioo/
+https://cassymari.github.io/Game-Jokenpo./
+
+![Preview do Projeto](./assets/jokenpo.jpeg)
 
 ---
 
@@ -90,4 +92,4 @@ index.html
 
 # 👩‍💻 Autora
 
-Projeto desenvolvido por **Cassy Maria**
+Projeto desenvolvido por **Cassiane M. Nascimento**
